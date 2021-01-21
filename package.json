@@ -17,6 +17,6 @@
 		"@wordpress/scripts": "^12.1.1"
 	},
 	"dependencies": {
-		"immer": "^7.0.5"
+		"immer": "^8.0.1"
 	}
 }
